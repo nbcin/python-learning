@@ -10,6 +10,7 @@ Tuples are also comparable and hashable so we can sort lists of them and use tup
 import os 
 
 os.system('clear')
+print "\n Operating system name :",os.name
 
 txt = 'i love ted talks , its a great learning experience from different people  '
 words = txt.split()
