@@ -23,5 +23,6 @@ res = list()
 for length, word in t:
     res.append(word)
 
+print "\nIntial list of words : \n",txt
 print "\nsorted list of words from longest to shortest: \n",res
 print "\n"
